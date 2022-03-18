@@ -1,0 +1,51 @@
+[
+    {
+        "id":1 ,
+        "name": "Organic Rice(1kg)",
+        "price": "200",
+        "image": "https://i.ibb.co/fC3pWDh/product1.png"
+    },
+    {
+        "id":2 ,
+        "name": "Fresh Egg (4 pcs)",
+        "price": "50",
+        "image": "https://i.ibb.co/rvzcYr5/product2.png"
+    },
+    {
+        "id":3 ,
+        "name": "Onion (1 kg)",
+        "price": "220",
+        "image": "https://i.ibb.co/Rv3fZRs/product4.png"
+    },
+    {
+        "id":4 ,
+        "name": "Organic Potato (1kg)",
+        "price": "80",
+        "image": "https://i.ibb.co/C2vntr3/product26.png"
+    },
+    {
+        "id":5 ,
+        "name": "New coriander (1 bundle)",
+        "price": "200",
+        "image": "https://i.ibb.co/d4HNZxg/coriander-404x404.jpg"
+    },
+    {
+        "id":6 ,
+        "name": "Red-radish (4pcs)",
+        "price": "250",
+        "image": "https://i.ibb.co/NpSfVyS/red-radish-404x404.jpg"
+    },
+    {
+        "id":7 ,
+        "name": "cauliflower (1kg)",
+        "price": "120",
+        "image": "https://i.ibb.co/nsTVcLb/cauliflower-404x404.jpg"
+    },
+    {
+        "id":8 ,
+        "name": "Bottle-gourd (2pcs)",
+        "price": "100",
+        "image": "https://i.ibb.co/Y2CwSZJ/bottle-gourd-500x500-1-404x404.jpg"
+    }
+
+]

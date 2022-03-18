@@ -1,0 +1,50 @@
+[
+    {
+        "id":1 ,
+        "name": "Stovery (1kg)",
+        "price": "850",
+        "image": "https://i.ibb.co/jbqMLH0/f4.png"
+    },
+    {
+        "id":2 ,
+        "name": "Fresh Banana (4 pcs)",
+        "price": "50",
+        "image": "https://i.ibb.co/z6G3k4n/product31.png"
+    },
+    {
+        "id":3 ,
+        "name": "Orange (4 pcs)",
+        "price": "100",
+        "image": "https://i.ibb.co/JpGkpm5/product33.png"
+    },
+    {
+        "id":4,
+        "name": "Fresh Graps Potato (1kg)",
+        "price": "360",
+        "image": "https://i.ibb.co/ySngkrs/product34.png"
+    },
+    {
+        "id":5 ,
+        "name": "Apple (1kg)",
+        "price": "360",
+        "image": "https://i.ibb.co/KNbQ0j5/product30.png"
+    },
+    {
+        "id":6 ,
+        "name": "Guava (4pcs)",
+        "price": "120",
+        "image": "https://i.ibb.co/pLXJNCJ/product32.png"
+    },
+    {
+        "id":7 ,
+        "name": "Black Graps (1kg)",
+        "price": "1050",
+        "image": "https://i.ibb.co/pLXJNCJ/product32.png"
+    },
+    {
+        "id":8 ,
+        "name": "Organic Pepe (2pcs)",
+        "price": "150",
+        "image": "https://i.ibb.co/kg9fp4S/product24.png"
+    }
+]

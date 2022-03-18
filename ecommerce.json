@@ -1,0 +1,25 @@
+[
+    {
+        "id":1 ,
+        "name": "Carrot",
+        "image": "https://i.ibb.co/JzjRsY9/product22.png"
+    },
+
+    {
+        "id":2,
+        "name": "Onion",
+        "image": "https://i.ibb.co/6D6HxgJ/product23.png",
+    },
+
+    {
+        "id":3,
+        "name": "Capsicum",
+        "image": "https://i.ibb.co/y8VXgTF/product28.png"
+    },
+
+    {
+        "id":4,
+        "name": "Broccoli",
+        "image": "https://i.ibb.co/TtQLDHL/product27-1.png"
+    }
+]
