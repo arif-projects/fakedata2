@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Mr. James",
+        "position":"Doctor",
+        "image": "https://i.ibb.co/RvrShjW/diverse-medical-team-of-doctors-looking-at-camera-while-holding-clipboard-and-medical-files-e1623252.jpg",
+        "description": "Great very smooth and gets the job done."
+    },
+    {
+        "id": 2,
+        "name": "Andraw",
+        "position":"Web Developer",
+        "image": "https://i.ibb.co/kQDqxWv/images-q-tbn-ANd9-Gc-R4v-Hwf-Wq-QW7l-Aj-OAs-NDwrze-Jer1-Bg863-H1-Q-usqp-CAU.jpg",
+        "description": "Ariful is a Professional Web Developer."  
+    },
+    {
+        "id": 3,
+        "name": "Smith",
+        "position":"Engineer",
+        "image": "https://i.ibb.co/8ML7jQ4/images-q-tbn-ANd9-Gc-RLe5-PABj-Xc17cj-IMOib-ECLM7pp-Dw-Mmi-Dg6-Dw-usqp-CAU.jpg",
+        "description": "Clean, classic, and Eye Chatching. The webapp takes the best of qualities."
+    }
+
+]
